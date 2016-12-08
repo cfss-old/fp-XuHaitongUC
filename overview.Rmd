@@ -12,10 +12,10 @@ HOurworld is a small worker cooperative launched in 2010 by Linda Hogan, Stephen
 
 Currently there are more than 200 timebank initiatives associated with hOurworld. Most of them became a member of the association after the 2008 financial crisis. The emotional and economic anxiety associated with the financial crisis, as well as the ideological incentive of seeking an economic alternative, might be some of the key reasons that lead to this sudden increase of popularity. In addition, the recent conversion of hOuworld's software platform [Community Weaver](http://timebanks.org/get-started/community-weaver/) from free to pay-to-use may also account for the increase in membership of hOurworld in recent years
 
-![Fig.1 The year which time banks associated with hOurworld are founded](Data Pipeline/graphics/barchart_timebank-by-year.png)
+![Fig.1 The year which time banks associated with hOurworld are founded](graphics/barchart_timebank-by-year.png)
 
 In terms of the geographic pattern, while time bank initiatives are scatter accross the United States, they are mostly concentrated in some states in the North East, MidWest and the West Coast, and see only limited operational scale elsewhere. The following figures showcases the general distribution pattern of time banks associated with hOurworld by states:
-![Fig.2 The geographic distribution pattern of time banks associated with hour world](Data Pipeline/graphics/barchart_timebank-by-state-all.png)
+![Fig.2 The geographic distribution pattern of time banks associated with hour world](graphics/barchart_timebank-by-state-all.png)
 
 This pattern remains true for established time banks that are launched before 2016 and at least have 10 hrs of exchange in history:
-![Fig.3 The geographic distribution pattern of time banks associated with hour world](Data Pipeline/graphics/barchart_timebank-by-state-established.png)
+![Fig.3 The geographic distribution pattern of time banks associated with hour world](graphics/barchart_timebank-by-state-established.png)
