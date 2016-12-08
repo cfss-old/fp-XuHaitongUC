@@ -5,5 +5,8 @@ navbar:
   left:
     - text: "Home"
       href: index.html
-    - text: "About"
+    - text: "About Time Banks"
       href: about.html
+    - text: "Relevant Organizational Factors"
+      href: factors.html
+    - text: 
