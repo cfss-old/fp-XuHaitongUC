@@ -1,12 +1,18 @@
-name: "my-website"
+name: "hOurworld Timebanks"
 output_dir: "."
 navbar:
-  title: "My Website"
+  title: "hOurworld Timebanks"
   left:
     - text: "Home"
       href: index.html
-    - text: "About Time Banks"
+    - text: "About Timebanks"
       href: about.html
-    - text: "Relevant Organizational Factors"
+    - text: "hOurworld Overview"
+      href: overview.html
+    - text: "Relevant Factors"
       href: factors.html
-    - text: 
+    - text: "Timebanks Catalog"
+      href: catalog.html
+    - text: "Citations"
+      href: citation.html
+    

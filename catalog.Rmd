@@ -1,0 +1,11 @@
+---
+title: "Catalog of hOurworld Timebanks"
+---
+```{r, echo = FALSE}
+shinyAppDir(
+  system.file(package="shiny"),
+  options=list(
+    width="100%", height="100%"
+  )
+)
+```
