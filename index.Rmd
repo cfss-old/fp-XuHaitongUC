@@ -1,5 +1,8 @@
 ---
 title: "The Activity Level of Time Banks"
+output:
+  html_document:
+    theme: united
 ---
 
 Hello, Website!

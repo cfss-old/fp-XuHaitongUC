@@ -1,5 +1,8 @@
 ---
 title: "Factors that Influence the Activity Level of Time Banks Associated with hOurworld"
+output:
+  html_document:
+    theme: united
 ---
 
-Hello, Website!
+A number of quantitative factors would in theory affect the activity level of a timebank initiative, namely: the size of its membership size, the ratio of active members, and the 

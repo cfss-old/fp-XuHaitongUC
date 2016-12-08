@@ -1,5 +1,8 @@
 ---
 title: "Overview of hOurworld and the Associated Timebank Initiatives"
+output:
+  html_document:
+    theme: united
 ---
 <img style="float: right;" src="graphics/ico_hOurworld.png">
 
@@ -11,4 +14,8 @@ Currently there are more than 200 timebank initiatives associated with hOurworld
 
 ![Fig.1 The year which time banks associated with hOurworld are founded](Data Pipeline/graphics/barchart_timebank-by-year.png)
 
-While 
+In terms of the geographic pattern, while time bank initiatives are scatter accross the United States, they are mostly concentrated in some states in the North East, MidWest and the West Coast, and see only limited operational scale elsewhere. The following figures showcases the general distribution pattern of time banks associated with hOurworld by states:
+![Fig.2 The geographic distribution pattern of time banks associated with hour world](Data Pipeline/graphics/barchart_timebank-by-state-all.png)
+
+This pattern remains true for established time banks that are launched before 2016 and at least have 10 hrs of exchange in history:
+![Fig.3 The geographic distribution pattern of time banks associated with hour world](Data Pipeline/graphics/barchart_timebank-by-state-established.png)

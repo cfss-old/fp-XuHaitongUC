@@ -1,5 +1,8 @@
 ---
 title: "Citations"
+output:
+  html_document:
+    theme: united
 ---
 
 Hello, Website!
