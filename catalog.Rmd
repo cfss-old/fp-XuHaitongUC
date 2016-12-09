@@ -4,4 +4,6 @@ output:
   html_document:
     theme: united
 ---
-<iframe src="https://xuhaitonguc.shinyapps.io/03_final_project/" style="border: none; width: 1000px; height: 1900px"></iframe>
+<iframe src="https://xuhaitonguc.shinyapps.io/03_final_project/" style="border: none; width: 1000px; height: 1000px"></iframe>
+
+Xu, Haitong 2016

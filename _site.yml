@@ -9,7 +9,7 @@ navbar:
       href: about.html
     - text: "hOurworld Overview"
       href: overview.html
-    - text: "Timebanks Catalog"
+    - text: "Timebank Catalog"
       href: catalog.html
     - text: "Relevant Factors"
       href: factors.html

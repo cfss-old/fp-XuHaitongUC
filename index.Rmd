@@ -4,6 +4,8 @@ output:
   html_document:
     theme: united
 ---
+![Image credit: pagosatimebank.com](graphics/Slider-2-1024x341.png)
+
 This final project also serves as a preliminary research for a joint project between me and [Prof. Craig Borowiak](https://ww3.haverford.edu/politicalscience/faculty/borowiak/) of Haverford College under the umbrella of . The aim of the larger project is to 
 
 Xu, Haitong 2016
