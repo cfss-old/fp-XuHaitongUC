@@ -4,7 +4,7 @@ library(feather)
 library(scales)
 
 # Load relevant dataset
-hOurworld_df_old <- read_feather("Data Pipeline/data/hOurworld_df_old.feather")
+hOurworld_df_old <- read_feather("data/hOurworld_df_old.feather")
 
 # Build UI
 ui <- fluidPage(titlePanel("Time Bank Initiatives Associated with hOurworld"),

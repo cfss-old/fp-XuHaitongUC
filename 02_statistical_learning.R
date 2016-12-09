@@ -80,4 +80,6 @@ hOurworld_rf
 # Illustrate the reasults
 kable(hOurworld_rf$finalModel$confusion)
 
+png(filename = "graphics/Mean_Decrease_Gini.png", width = 600, height = 400, units = "px")
 varImpPlot(hOurworld_rf$finalModel)
+dev.off()
